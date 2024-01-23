@@ -19,6 +19,7 @@ public class Lettore extends Thread{
     /**
      * Legge il file senza tener conto del tipo di file
      * e lo mostra in output
+     * ciao
      */
     public void leggi(){
         FileReader fr;
